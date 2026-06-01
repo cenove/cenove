@@ -36,7 +36,3 @@ An end-to-end data pipeline demonstrating the full lifecycle of data analysis:
 - **ETL:** Utilized Python scripts to convert and separate raw `.xlsx` files into `.csv` formats.
 - **Database:** Created and structured a relational database within SQL Server.
 - **Visualization:** Modeled the data into a Star Schema format within Power BI to construct a comprehensive analytical sales dashboard.
-
-### 📫 Let's Connect!
-
-- **LinkedIn:** [Diogo Ferreira](www.linkedin.com/in/diogo-ferreira-40342a1bb)
