@@ -11,12 +11,11 @@ I am a data professional focused on creating dynamic dashboards, building data p
 - 🎓 **Education:** Graduated in Systems Analysis and Development from UNIP.
 - 🌱 **I’m currently learning:** Continuously sharpening my skills in database administration and advanced Power BI modeling.
 - 💬 **Ask me about:** Data visualization, DAX, ETL processes, and Python for data cleaning.
-- ⚡ **Fun fact:** I also have a passion for creative writing, character design, and building fictional universes!
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages:** 
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Polars)
 - SQL (Data Modeling, Object Administration)
 - DAX
 
@@ -27,7 +26,7 @@ I am a data professional focused on creating dynamic dashboards, building data p
 
 **Databases & Environment:**
 - SQL Server (SSMS)
-- Relational Database Structuring (Star Schema)
+- Azure
 
 ### 📈 Featured Projects
 
